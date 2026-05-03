@@ -70,8 +70,8 @@ jobs:
           fi
           
           # Запуск с логами
-          echo "🔧 Запуск: python tetovpn.py $ARGS"
-          python tetovpn.py $ARGS --debug
+          echo "🔧 Запуск"
+          python main.py $ARGS --debug
         env:
           PYTHONUNBUFFERED: '1'
 
