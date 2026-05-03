@@ -1,0 +1,107 @@
+# .github/workflows/build.yml
+name: 🎀 TetoVPN Auto-Update
+
+on:
+  workflow_dispatch:  # Ручной запуск
+    inputs:
+      include_warp:
+        description: 'Включить WARP detour'
+        required: false
+        default: 'false'
+        type: boolean
+      channels:
+        description: 'Каналы через запятую (опционально)'
+        required: false
+        type: string
+  schedule:
+    - cron: '0 */6 * * *'  # Запуск каждые 6 часов (00:00, 06:00, 12:00, 18:00 UTC)
+
+permissions:
+  contents: write  # Для коммитов
+  actions: read    # Для логов
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: 📦 Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'  # ✅ 3.14 не существует, используем стабильную 3.11
+          cache: 'pip'
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🌍 Download GeoIP database
+        run: |
+          mkdir -p configs
+          curl -L -o configs/GeoLite2-Country.mmdb \
+            "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb" || \
+            echo "⚠️ Не удалось скачать GeoIP, используем эвристику"
+
+      - name: 🚀 Run TetoVPN parser
+        run: |
+          # Формируем аргументы
+          ARGS=""
+          
+          # WARP: включаем только если выбрано в workflow_dispatch
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ inputs.include_warp }}" == "true" ]]; then
+            ARGS="$ARGS --warp-include"
+            echo "✅ WARP: ВКЛЮЧЁН"
+          else
+            echo "❌ WARP: ОТКЛЮЧЁН (быстрее загрузка в Hiddify)"
+          fi
+          
+          # Каналы: если указаны вручную
+          if [[ -n "${{ inputs.channels }}" ]]; then
+            ARGS="$ARGS --channels '${{ inputs.channels }}'"
+            echo "📡 Каналы: ${{ inputs.channels }}"
+          fi
+          
+          # Запуск с логами
+          echo "🔧 Запуск: python tetovpn.py $ARGS"
+          python tetovpn.py $ARGS --debug
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      - name: 🔍 Check if configs changed
+        id: git_status
+        run: |
+          if git diff --quiet configs/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "📊 Конфиги не изменились"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "📊 Обнаружены изменения в конфигах"
+            git diff --stat configs/
+          fi
+
+      - name: 💾 Commit & Push updates
+        if: steps.git_status.outputs.changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: |
+            🎀 АПДЕЙТ КОНФИГОВ ${{ github.event_name == 'workflow_dispatch' && '🔧 РУЧНОЙ ЗАПУСК' || '⏰ АВТО-ОБНОВЛЕНИЕ' }}
+            
+            🕐 Время: ${{ github.event.head_commit.timestamp || github.run_started_at }}
+            📡 Каналы: ${{ inputs.channels || 'по умолчанию' }}
+            ⚡ WARP: ${{ inputs.include_warp == 'true' && '✅ ВКЛ' || '❌ ОТКЛ' }}
+            
+            #TetoVPN #автообновление
+          file_pattern: "configs/*"
+          commit_user_name: "GitHub Actions"
+          commit_user_email: "actions@github.com"
+          skip_fetch: true
+          skip_checkout: true
+          create_branch: false
