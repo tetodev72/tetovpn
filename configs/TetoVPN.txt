@@ -1,13 +1,12 @@
 //profile-title: base64:8J+OgCBUZXRvVlBO
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-05-12 19:40:54
+//last update on: 2026-05-13 02:33:31
 //mode: 🎀 TetoVPN — ~25 лучших
 
-vless://3c732b6a-4eea-42cd-9475-cea568562736@188.211.233.106:443?type=tcp&security=reality&encryption=none&pbk=WMU0mGFIbM30xq3Cra5PSUml0SxuGM7U9wilNz1AWHI&fp=chrome&sni=www.tradingview.com&sid=fe98a6c399be6a0a&flow=xtls-rprx-vision#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
+vless://a0e4e8b6-0518-4f19-803e-eece71583392@72.56.123.227:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
 vless://ed1fcd42-02cd-41be-bdb0-f40c0a4786c4@swed.lumixnet.com:443?security=reality&encryption=none&pbk=cM7DvI5154nlTnovCUR-JZSq3jKLy5nME8rlJfdE0WU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swed.lumixnet.com&sid=c2863747e0abe44e#%F0%9F%87%A8%F0%9F%87%B4%20%F0%9F%8F%B4%20%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F%201
 vless://e77535c8-f896-4f69-acd0-91484e94957f@gr.kavkaz-market.tech:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A&type=tcp#%F0%9F%87%AC%F0%9F%87%B7%20%F0%9F%8F%B3%EF%B8%8F%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F%201
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-2.edgeflux.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cl-ru-2.edgeflux.ru#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%8F%B4%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201
-vless://3c732b6a-4eea-42cd-9475-cea568562736@188.211.233.106:443?type=tcp&security=reality&encryption=none&pbk=WMU0mGFIbM30xq3Cra5PSUml0SxuGM7U9wilNz1AWHI&fp=chrome&sni=www.tradingview.com&sid=fe98a6c399be6a0a&flow=xtls-rprx-vision#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
-vless://adf1c918-43a1-4f53-a2dc-499c64d33bca@91.84.122.187:443?security=reality&encryption=none&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=808e2d36726ee97e#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B3%EF%B8%8F%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%202
-vless://a0e4e8b6-0518-4f19-803e-eece71583392@72.56.123.227:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
+vless://a0e4e8b6-0518-4f19-803e-eece71583392@72.56.123.227:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
+vless://a0e4e8b6-0518-4f19-803e-eece71583392@72.56.72.36:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%202
+vless://a0e4e8b6-0518-4f19-803e-eece71583392@64.188.63.144:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
