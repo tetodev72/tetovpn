@@ -1,11 +1,10 @@
 //profile-title: base64:0KLRg9C90LXRj9C00LXRhlByb3h5
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-06-04 14:42:50
+//last update on: 2026-06-04 19:57:04
 //mode: 🐌 ТунеядецProxy — для друзей
 
 vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.17.183.0:2052?path=%2F%3Fed%3D2560&security=&encryption=none&host=tianshu.kevqwkt451.workers.dev&type=ws#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
-vless://07b83f89-da7c-48df-8ef4-805540c7a6ee@5tfj5z88q4.a.trbcdn.net:443?encryption=none&security=tls&sni=5tfj5z88q4.a.trbcdn.net&fp=firefox&type=xhttp&mode=auto&path=%2F&host=5tfj5z88q4.a.trbcdn.net&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%8F%B3%EF%B8%8F%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%201
-vless://07b83f89-da7c-48df-8ef4-805540c7a6ee@yaf2.cyphervpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&type=tcp&headerType=none#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B3%EF%B8%8F%20%F0%9F%8F%B3%EF%B8%8F%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
-vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.17.183.0:2052?path=%2F%3Fed%3D2560&security=&encryption=none&host=tianshu.kevqwkt451.workers.dev&type=ws#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%202
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@154.211.8.84:2083?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=proxy-3us.pages.dev&fp=random&type=ws&allowInsecure=0&sni=proxy-3us.pages.dev#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
+vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.17.183.0:2052?path=%2F%3Fed%3D2560&security=&encryption=none&host=tianshu.kevqwkt451.workers.dev&type=ws#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@154.211.8.84:2083?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=proxy-3us.pages.dev&fp=random&type=ws&allowInsecure=0&sni=proxy-3us.pages.dev#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%202
+vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&fp=chrome&type=grpc&sni=google.com&sid0=01#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
