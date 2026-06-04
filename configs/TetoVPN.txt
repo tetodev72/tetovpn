@@ -1,7 +1,7 @@
 //profile-title: base64:8J+OgCBUZXRvVlBO
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-06-03 20:49:33
+//last update on: 2026-06-04 02:57:49
 //mode: 🎀 TetoVPN — ~25 лучших
 
 vless://40af9131-d540-448a-bc56-5bba147a1dc3@154.211.8.84:2083?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=proxy-3us.pages.dev&fp=random&type=ws&allowInsecure=0&sni=proxy-3us.pages.dev#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
