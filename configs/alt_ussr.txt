@@ -1,7 +1,7 @@
 //profile-title: base64:0KLRg9C90LXRj9C00LXRhlByb3h5
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-06-04 19:57:04
+//last update on: 2026-06-05 02:46:22
 //mode: 🐌 ТунеядецProxy — для друзей
 
 vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.17.183.0:2052?path=%2F%3Fed%3D2560&security=&encryption=none&host=tianshu.kevqwkt451.workers.dev&type=ws#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
