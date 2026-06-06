@@ -1,12 +1,12 @@
 //profile-title: base64:8J+OgCBUZXRvVlBO
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-06-05 19:45:16
+//last update on: 2026-06-06 02:33:12
 //mode: 🎀 TetoVPN — ~25 лучших
 
 vless://40af9131-d540-448a-bc56-5bba147a1dc3@154.211.8.84:2083?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=proxy-3us.pages.dev&fp=random&type=ws&allowInsecure=0&sni=proxy-3us.pages.dev#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
 vless://322d6d6e-2e34-4ef5-b866-35dab761f1ab@gam2r.skystreamgame.com:8443?security=reality&encryption=none&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=gam2r.skystreamgame.com&sid=6d6f13013d3e1d0c#%F0%9F%87%A8%F0%9F%87%B4%20%F0%9F%8F%B4%20%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F%201
-vless://e6990876-f78f-5f47-b716-fde1cbec10bc@kz-1.illusion-vpn.ru:8443?security=reality&encryption=none&pbk=vgoHApJUN--t9eI7bCyYBJUO4ZgkZQBzxPzjNc_v314&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=kz-1.illusion-vpn.ru&sid=2e83619c7975b870#%F0%9F%87%AE%F0%9F%87%B1%20%F0%9F%8F%B4%20%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%201
+vless://8137c982-9447-5ab0-a943-12d68af8bbd3@tr-1.illusion-vpn.ru:52000?security=reality&encryption=none&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=3d67b0666a5e09a0#%F0%9F%87%AE%F0%9F%87%B1%20%F0%9F%8F%B3%EF%B8%8F%20%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%201
 vless://bee8df77-2780-5a7b-b005-9da84fcb7aaf@ru-lv.illusion-vpn.ru:443?security=reality&encryption=none&pbk=86DiKd_LyZ_9L4WyaADZsNJH5wnaTGoZyywz0CGFYwg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ru-lv.illusion-vpn.ru&sid=9ec378e393a94f#%F0%9F%87%AE%F0%9F%87%B1%20%F0%9F%8F%B4%20%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%202
 vless://e19966ec-7628-5252-89d2-43b5d4e51264@pl-1.illusion-vpn.ru:443?security=reality&encryption=none&pbk=ExcIQDzOvrpzbDgbLufmt33F-ObNGHXx6rjEvzn76jI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pl-1.illusion-vpn.ru&sid=2e83619c7975b870#%F0%9F%87%AE%F0%9F%87%B1%20%F0%9F%8F%B4%20%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%203
 vless://40af9131-d540-448a-bc56-5bba147a1dc3@154.211.8.84:2083?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=proxy-3us.pages.dev&fp=random&type=ws&allowInsecure=0&sni=proxy-3us.pages.dev#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
