@@ -1,13 +1,14 @@
 //profile-title: base64:8J+OgCBUZXRvVlBO
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-06-09 09:29:26
+//last update on: 2026-06-09 14:34:00
 //mode: 🎀 TetoVPN — ~25 лучших
 
-vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@152.114.193.11:47200?security=reality&encryption=none&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stats.vk…#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
+vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&fp=chrome&type=grpc&sni=google.com&sid0=01#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
+vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=s95410.cdn.ngenix.net&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%87%B3%F0%9F%87%AC%20%F0%9F%8F%B3%EF%B8%8F%20%D0%9D%D0%B8%D0%B3%D0%B5%D1%80%D0%B8%D1%8F%201
 vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&sid=f83fd840aa1e1bc6&sni=yandex.ru&spx=%2F#%F0%9F%87%B5%F0%9F%87%AD%20%F0%9F%8F%B3%EF%B8%8F%20%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B%201
 vless://a38e4dd1-7111-4865-adb2-657723edfbdd@top1342980873.mwscdn.ru:443?mode=auto&path=%2Fbuy&security=tls&encryption=none&host=top1342980873.mwscdn.ru&fp=chrome&type=xhttp&sni=top1342980873.mwscdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%8F%B3%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201
 vless://a38e4dd1-7111-4865-adb2-657723edfbdd@top1342980873.mwscdn.ru:443?mode=auto&path=%2Fbuy&security=tls&encryption=none&host=top1342980873.mwscdn.ru&fp=chrome&type=xhttp&sni=top1342980873.mwscdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%8F%B3%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%202
-vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@152.114.193.11:47200?security=reality&encryption=none&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stats.vk…#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
+vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&fp=chrome&type=grpc&sni=google.com&sid0=01#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
 vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@152.114.193.11:47200?security=reality&encryption=none&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=b2a9bd658fc81dc6#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B3%EF%B8%8F%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%202
-vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&fp=chrome&type=grpc&sni=google.com&sid0=01#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
+vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@152.114.193.11:47200?security=reality&encryption=none&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stats.vk…#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
