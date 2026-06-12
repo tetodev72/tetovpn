@@ -1,7 +1,7 @@
 //profile-title: base64:8J+OgCBUZXRvVlBO
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-06-12 14:43:17
+//last update on: 2026-06-12 19:59:40
 //mode: 🎀 TetoVPN — ~25 лучших
 
 vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&fp=chrome&type=grpc&sni=google.com&sid0=01#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
