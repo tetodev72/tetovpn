@@ -1,7 +1,7 @@
 //profile-title: base64:8J+OgCBUZXRvVlBO
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-06-13 19:14:26
+//last update on: 2026-06-14 02:56:22
 //mode: 🎀 TetoVPN — ~25 лучших
 
 vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&fp=chrome&type=grpc&sni=google.com&sid0=01#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
@@ -12,5 +12,5 @@ vless://db059c92-c1f1-4c27-b8fe-e8fdfa0233f1@nl.nodevideo.ru:443?encryption=mlke
 vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&sid=f83fd840aa1e1bc6&sni=yandex.ru&spx=%2F#%F0%9F%87%B5%F0%9F%87%AD%20%F0%9F%8F%B3%EF%B8%8F%20%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B%201
 vless://49f06130-cfd4-44d6-bea4-ffc97986f61b@tralalero.site:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=f32140952ba18e18&sni=storage.yandex.net&type=#%F0%9F%87%B7%F0%9F%87%B4%20%F0%9F%8F%B3%EF%B8%8F%20%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F%201
 vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&fp=chrome&type=grpc&sni=google.com&sid0=01#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
-vless://8f0c1a18-be77-49de-9aca-8b649efb8710@31.59.39.85:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&fp=chrome&type=grpc&sni=google.com&sid=01#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%202
-vless://8f0c1a18-be77-49de-9aca-8b649efb8710@2.27.59.125:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&fp=chrome&type=grpc&sni=google.com&sid=01#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
+vless://be59e17b-2afa-49f7-b15b-7c6a95f0d062@5.175.249.199:52315?path=%2F&security=&encryption=none&type=ws#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%202
+vless://8f0c1a18-be77-49de-9aca-8b649efb8710@31.59.39.85:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&fp=chrome&type=grpc&sni=google.com&sid=01#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
