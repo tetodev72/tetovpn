@@ -1,12 +1,12 @@
 //profile-title: base64:0KLRg9C90LXRj9C00LXRhlByb3h5
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-06-18 02:53:29
+//last update on: 2026-06-18 10:11:17
 //mode: 🐌 ТунеядецProxy — для друзей
 
 vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&fp=chrome&type=grpc&sni=google.com&sid0=01#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
-vless://25fd9c88-4ea5-47b6-80a1-03abe9d391c1@nodefulcrum.mooo.com:443?security=reality&encryption=none&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=nodefulcrum.mooo.com&sid=6547735997055a35#%F0%9F%87%A8%F0%9F%87%B4%20%F0%9F%8F%B4%20%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F%201
-vless://25fd9c88-4ea5-47b6-80a1-03abe9d391c1@nodefulcrum.mooo.com:443?security=reality&encryption=none&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=nodefulcrum.mooo.com&sid=65477…#%F0%9F%87%A8%F0%9F%87%B4%20%F0%9F%8F%B4%20%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F%202
+vless://25fd9c88-4ea5-47b6-80a1-03abe9d391c1@nodefulcrum.mooo.com:443?security=reality&encryption=none&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=nodefulcrum.mooo.com&sid=65477…#%F0%9F%87%A8%F0%9F%87%B4%20%F0%9F%8F%B4%20%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F%201
+vless://25fd9c88-4ea5-47b6-80a1-03abe9d391c1@nodefulcrum.mooo.com:443?security=reality&encryption=none&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=nodefulcrum.mooo.com&sid=6547735997055a35#%F0%9F%87%A8%F0%9F%87%B4%20%F0%9F%8F%B4%20%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F%202
 vless://51171159-d453-4d05-bbae-287207db33dd@jp.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%8F%B3%EF%B8%8F%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%201
 vless://6e3095cd-78fd-4ed6-88b7-b70a55897fae@kz.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz.monkeyisland.xyz&sid=ecca56e9a9963ed7#%F0%9F%87%B0%F0%9F%87%BF%20%F0%9F%8F%B4%20%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%201
 vless://23b80865-62fe-41bb-b471-9ad9a38c4c70@top3037956744.mwscdn.ru:443?path=%2Fapi%2Fmetric%2Fws&security=tls&encryption=none&fp=chrome&type=ws&sni=top3037956744.mwscdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%8F%B4%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201
